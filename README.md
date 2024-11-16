@@ -5,7 +5,10 @@ You can call me Crystal! I’m a passionate and curious individual currently div
 ## 🚀 About Me
 - 🌟 **Interests**: Gaming, Dancing, Programming, Sleeping
 - 🎓 **Currently Learning**: Machine Learning / AI
-- 💻 **Main Coding Languages**: Java, Python, C++
+- 💻 **Main Coding Languages**:
+  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 🎮 **Mainly a**: Minecraft Server Developer / Linux Server Administrator
 
 ## 🔭 What I'm Working On
